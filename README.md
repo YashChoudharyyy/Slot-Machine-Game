@@ -1,5 +1,3 @@
-#Slot Machine Game
-
 A command-line casino-style game that simulates spinning reels and calculates winnings based on predefined probabilities and payouts.
 Technologies Used: Python, Random Module, Object-Oriented Programming
 
